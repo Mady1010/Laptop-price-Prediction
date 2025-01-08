@@ -1,5 +1,5 @@
 streamlit==1.41.1
-numpy==1.21.0
+numpy==1.23.5
 scikit-learn==1.0.2
 pickle-mixin
 
